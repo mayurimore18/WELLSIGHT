@@ -1,0 +1,10 @@
+{
+  "description": "This AI-driven platform empowers drilling engineers with real-time insights and historical data on nearby wells, enhancing decision-making and risk management.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
